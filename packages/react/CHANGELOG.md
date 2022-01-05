@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/yishayweb/yishay20-course-monorepo/compare/v1.1.0...v1.2.0) (2022-01-05)
+
+
+### Features
+
+* hello there ([5e8d748](https://github.com/yishayweb/yishay20-course-monorepo/commit/5e8d7489c8c854f228018cdbcd33796f23d19b33))
+
+
+
+
+
 # 1.1.0 (2022-01-05)
 
 
