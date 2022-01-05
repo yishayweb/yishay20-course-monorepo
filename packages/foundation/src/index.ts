@@ -1,7 +1,6 @@
-import FontSize from './FontSize'
-import Spacing from './Spacing'
+import FontSize from "./FontSize";
+import Spacing from "./Spacing";
 
-export {
-    FontSize,
-    Spacing
-}
+console.log("hello");
+
+export { FontSize, Spacing };
