@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/yishayweb/yishay20-course-monorepo/compare/v1.3.0...v1.5.0) (2022-01-05)
+
+
+### Features
+
+* in ([ecd8d49](https://github.com/yishayweb/yishay20-course-monorepo/commit/ecd8d49e7f47f626011a7e1251cf9b572bcc2dda))
+* lerna not inde ([0cf10b4](https://github.com/yishayweb/yishay20-course-monorepo/commit/0cf10b450e04d08d7f4a8b95494251d0ceaa6046))
+
+
+
+
+
 # [1.3.0](https://github.com/yishayweb/yishay20-course-monorepo/compare/v1.2.0...v1.3.0) (2022-01-05)
 
 
